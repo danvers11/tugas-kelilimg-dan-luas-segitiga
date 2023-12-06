@@ -56,3 +56,8 @@ button:active {
     background-color: yellowgreen;
     transform: translateY(5px);
 }
+
+button:disabled {
+    background-color: red;
+    color: red;
+}
